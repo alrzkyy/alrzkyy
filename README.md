@@ -125,7 +125,7 @@ const alrzkyy = {
 <div align="center">
 
 ### 🪐 [Astraverse](https://astraverse.web.id)
-> Website Yang Menyajikan Konten Anime, Donghua, Dan Komik tanpa iklan dan kualitas gambar atau video yang bagus.
+> Website Yang Menyajikan Konten Anime, Donghua, Dan Komik tanpa iklan dan kualitas gambar atau video yang baguss.
 
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-astraverse.web.id-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astraverse.web.id)
 
@@ -151,3 +151,23 @@ const alrzkyy = {
 </div>
 
 ###
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
