@@ -1,0 +1,38 @@
+name: Generate Snake Animation
+
+on:
+  # Jalanin otomatis tiap jam 12 malam
+  schedule:
+    - cron: "0 0 * * *"
+  # Bisa di-trigger manual pencet tombol
+  workflow_dispatch:
+  # Jalan otomatis tiap kali lo nge-push ke main branch
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      # Step 1: Bikin Gambar Animasi Ular (Snake/Pacman) dari history commit lu
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 2: Push gambar yang udah digenerate ke branch "output"
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
