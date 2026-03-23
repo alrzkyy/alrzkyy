@@ -132,10 +132,11 @@ const alrzkyy = {
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alrzkyy&show_icons=true&theme=dracula" alt="Snake animation substitute" />
-  
-  <br/>
+###
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alrzkyy&theme=dracula&area=true" alt="Pacman style graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alrzkyy&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="alrzkyy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrzkyy&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </div>
+
+###
