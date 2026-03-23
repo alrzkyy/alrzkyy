@@ -19,20 +19,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Hi+i+am+alrzkyy;Welcome+to+my+profile;Thank+you+for+you+visited" alt="Typing SVG" />
 </div>
 
-<br/><br/>
-
-<a href="https://github.com/alrzkyy">
-  <img src="https://komarev.com/ghpvc/?username=alrzkyy&style=for-the-badge&color=9333ea&label=Profile+Views" />
-</a>
-&nbsp;
-<a href="https://github.com/alrzkyy?tab=followers">
-  <img src="https://img.shields.io/github/followers/alrzkyy?style=for-the-badge&color=9333ea&labelColor=18181b&label=Followers" />
-</a>
-
-</div>
-
-<br/>
-
 ---
 
 ## 👤 About Me
