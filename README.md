@@ -134,6 +134,15 @@ const alrzkyy = {
 
 ###
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alrzkyy&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+###
+
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alrzkyy&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="alrzkyy's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrzkyy&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
