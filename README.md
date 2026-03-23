@@ -132,16 +132,10 @@ const alrzkyy = {
   </a>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alrzkyy&show_icons=true&theme=dracula" alt="Snake animation substitute" />
+  
+  <br/>
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alrzkyy&theme=dracula&area=true" alt="Pacman style graph" />
+</div>
