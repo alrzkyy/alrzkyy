@@ -143,21 +143,27 @@ const alrzkyy = {
 ###
 
 
-###
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alrzkyy&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="alrzkyy's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alrzkyy&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+
+## 🐍 Snake Game
+<img src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/snake.svg" alt="Snake animation" />
+
+<br>
+
+## 🕹️ Pacman Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman.svg">
+</picture>
+
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alrzkyy&show_icons=true&theme=tokyonight" alt="Snake Substitute" />
-  
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alrzkyy&theme=tokyonight&area=true" alt="Activity Graph" />
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=auto&height=100&section=footer" width="100%" />
 </div>
-
 
