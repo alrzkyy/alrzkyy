@@ -4,11 +4,10 @@
 
 <div align="center">
   <img src="img/github-header-banner.png" width="100%" alt="banner" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRid2xhYjN6OWp4ZGM4MTJ0NDg0bmN4ZmxhaDlwMHo5N2FhY2VqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OVVXlB29TQxdsyVxjf/giphy.gif" width="100%" alt="header gif" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ2MnB2NzZxbHEyeWgxYWo4cWc0bXJta2hueWJwc2E1amN4cWNibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UsVX1QDSLlCjw8PpJS/giphy.gif" width="100%" alt="header gif" />
 </div>
 
 <br/>
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     TYPING ANIMATION                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
