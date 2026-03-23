@@ -134,18 +134,20 @@ const alrzkyy = {
 
 ###
 
-## 🌐 AstraVerse Project - Anime, Donghua, Dan Comics
+## 🌐 AstraVerse Project
 
 <div align="center">
-  <a href="https://github.com/alrzkyy/astraverse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alrzkyy&repo=astraverse&theme=tokyonight&border_radius=10" />
-  </a>
+
+### 🪐 [Astraverse](https://astraverse.web.id)
+> Website Yang Menyajikan Konten Anime, Donghua, Dan Komik tanpa iklan dan kualitas gambar atau video yang bagus.
+
+[![Visit Website](https://img.shields.io/badge/Visit%20Website-astraverse.web.id-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astraverse.web.id)
+
+---
+
+*Masih terus nambahin proyek baru. Stay tuned! 👀*
+
 </div>
-
-<p align="center">
-  <i>Masih terus nambahin proyek baru. Stay tunedd! 👀</i>
-</p>
-
 ###
 
 <p align="center">
