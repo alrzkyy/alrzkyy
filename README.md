@@ -134,6 +134,20 @@ const alrzkyy = {
 
 ###
 
+## 🌐 AstraVerse Project - Anime, Donghua, Dan Comics
+
+<div align="center">
+  <a href="https://github.com/alrzkyy/astraverse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alrzkyy&repo=astraverse&theme=tokyonight&border_radius=10" />
+  </a>
+</div>
+
+<p align="center">
+  <i>Masih terus nambahin proyek baru. Stay tunedd! 👀</i>
+</p>
+
+###
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alrzkyy&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
