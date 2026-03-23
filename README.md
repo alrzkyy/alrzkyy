@@ -141,10 +141,6 @@ const alrzkyy = {
 </p>
 
 ###
-
-
-<br>
-
 <div align="center">
 
 ## 🐍 Snake Game
@@ -154,9 +150,9 @@ const alrzkyy = {
 
 ## 🕹️ Pacman Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman.svg">
+<img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman.svg">
 </picture>
 
 </div>
@@ -164,6 +160,5 @@ const alrzkyy = {
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=auto&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=venom&color=auto&height=100&section=footer" width="100%" />
 </div>
-
