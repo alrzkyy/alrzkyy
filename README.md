@@ -149,17 +149,9 @@ const alrzkyy = {
 
 <br/><br/>
 
-<iframe style="border-radius:12px" 
-src="https://open.spotify.com/embed/playlist/7cbHisiHJS7xxAZiOa4tuz?utm_source=generator" 
-width="100%" 
-height="352" 
-frameBorder="0" 
-allowfullscreen="" 
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-loading="lazy">
-</iframe>
+<img src="https://i.scdn.co/image/ab67706c0000da84" width="300" />
 
-</div>
+</div>>
 
 </div>
 
