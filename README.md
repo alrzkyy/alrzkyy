@@ -139,20 +139,6 @@ const alrzkyy = {
 
 ---
 
-## 🎧 My Spotify Playlist
-
-<div align="center">
-
-<a href="[https://open.spotify.com/playlist/7cbHisiHJS7xxAZiOa4tuz?si=de897a392b70467d](https://open.spotify.com/intl-id/track/1HNvADmPBGAExeyIHkcJtd?si=752ff7ec7d4e4f1a)" target="_blank">
-  <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://i.scdn.co/image/ab67706c0000da84" width="300" />
-
-</div>>
-
 </div>
 
 <p align="center">
