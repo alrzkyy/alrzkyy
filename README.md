@@ -153,3 +153,10 @@ const alrzkyy = {
 <img src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/snake.svg" alt="Snake animation" />
 
 <br>
+
+---
+
+## 🕹️ Pacman Game
+<img src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman-contribution.svg" alt="Pacman contribution graph" />
+
+</div>
