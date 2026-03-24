@@ -36,12 +36,10 @@ What truly drives me? The absolute thrill of writing code in my editor and seein
 ```js
 const alrzkyy = {
   name: "alrzkyy",
-  role: "Student Developer 🎓",
+  role: "Student Developer ",
   location: "Indonesia 🇮🇩",
-  currently: "Exploring Full-Stack & building cool projects",
-  passions: ["Clean UI/UX", "Readable Code", "Late-night Coffee ☕"],
-  openFor: "Collaborations, open-source, or connecting with fellow devs",
-  funFact: "Still debugging with console.log() and proud of it! 😅",
+  currently: "Learning Full-Stack & search good idea for the next project",
+  passions: ["Clean UI/UX", "Readable Code", "Late-night Coffee ☕"]
 };
 ```
 
