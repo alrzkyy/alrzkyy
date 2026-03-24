@@ -137,8 +137,31 @@ const alrzkyy = {
 
 *Masih terus nambahin proyek baru. Stay tuned! 👀*
 
+---
+
+## 🎧 My Spotify Playlist
+
+<div align="center">
+
+<a href="https://open.spotify.com/playlist/7cbHisiHJS7xxAZiOa4tuz?si=de897a392b70467d" target="_blank">
+  <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<iframe style="border-radius:12px" 
+src="https://open.spotify.com/embed/playlist/7cbHisiHJS7xxAZiOa4tuz?utm_source=generator" 
+width="100%" 
+height="352" 
+frameBorder="0" 
+allowfullscreen="" 
+allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+loading="lazy">
+</iframe>
+
 </div>
-###
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alrzkyy&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
