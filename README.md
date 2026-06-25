@@ -163,6 +163,7 @@ const alrzkyy = {
 ---
 
 ## 🕹️ Pacman Game
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/github-contribution-grid-snake/ocean.svg" alt="Pacman Game">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=PACMAN&fontSize=40&animation=twinkling" alt="Pacman" />
 </div>
