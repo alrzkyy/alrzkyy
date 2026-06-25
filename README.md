@@ -164,6 +164,6 @@ const alrzkyy = {
 <div align="center">
 
 ### 🕹️ Pacman
-![Pacman](https://i.imgur.com/bK2lYyC.gif)
+![Pacman](https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman-contribution.svg)
 
 </div>
