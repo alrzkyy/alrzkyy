@@ -150,8 +150,7 @@ const alrzkyy = {
 
 ## 🐍 Snake Game
 
-<img src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/snake.svg" alt="Snake animation" />
-<br>
+![Snake animation](https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/github-contribution-grid-snake.svg)
 
 ---
 
