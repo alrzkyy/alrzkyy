@@ -31,15 +31,15 @@
 
 I am **Muhammad Rahlil Al Rizki**, I am a student developer currently learning the ropes of programming. Although I entered the field in 2024, I have only recently decided to get serious about it, and I really appreciate how AI technology aids my learning process.
 
-What truly drives me? The absolute thrill of writing code in my editor and seeing it come to life in the browser. There is simply no feeling quite like it.
+What drives me to start learning programming technology now? It is because the rapid advancements in the world of programming are fascinating to me, and I hope to make a contribution in the future.
 
 ```js
 const alrzkyy = {
   name: "alrzkyy",
   role: "Student Developer ",
   location: "Indonesia 🇮🇩",
-  currently: "Learning Full-Stack & search good idea for the next project",
-  passions: ["Clean UI/UX", "Readable Code", "Late-night Coffee ☕"]
+  currently: "building a full-stack website with AI and also looking for a great idea for the next project",
+  passions: ["Clean UI/UX with a prompting :3", "Readable Code", "Late-night Coffee ☕"]
 };
 ```
 
