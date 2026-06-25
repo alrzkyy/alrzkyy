@@ -165,5 +165,5 @@ const alrzkyy = {
 ## 🕹️ Pacman Game
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=PACMAN&fontSize=40&animation=twinkling" alt="Pacman" />
+  <img src="https://media.giphy.com/media/20VOn6sOBvshg7mN5G/giphy.gif" width="400" alt="Pacman Retro">
 </div>
