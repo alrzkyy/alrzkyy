@@ -36,7 +36,7 @@ What drives me to start learning programming technology now? It is because the r
 ```js
 const alrzkyy = {
   name: "alrzkyy",
-  role: "Student Developer ",
+  role: "Beginner Developer ",
   location: "Indonesia 🇮🇩",
   currently: "building a full-stack website with AI and also looking for a great idea for the next project",
   passions: ["Clean UI/UX with a prompting :3", "Readable Code", "Late-night Coffee ☕"]
