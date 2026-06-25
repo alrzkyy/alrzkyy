@@ -161,11 +161,7 @@ const alrzkyy = {
 ![Snake animation](https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/github-contribution-grid-snake.svg)
 
 ---
-
-<div align="center">
-
+### 🕹️ Pacman
 ![Pacman](https://media.giphy.com/media/20VOn6sOBvshg7mN5G/giphy.gif)
 
 </div>
-
-</div
