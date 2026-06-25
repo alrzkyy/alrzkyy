@@ -3,13 +3,9 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
   <img src="img/github-header-banner.png" width="100%" alt="banner" />
-
- <div align="center">
-  <img src="img/header.gif" width="100%" alt="header gif">
-</div>
-
+  <br />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxqNnZsNXRzN3I1ZjllczhjbTNxNThtenV3N281enNqcHRud3phcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z1kNApBxwDVv4nzS83/giphy.gif" width="100%" alt="Profile gif Preview">
 </div>
 
 
