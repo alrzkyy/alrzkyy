@@ -162,9 +162,10 @@ const alrzkyy = {
 
 ---
 
-## 🕹️ Pacman Game
-<p align="center">
-  <img src="https://media.giphy.com/media/20VOn6sOBvshg7mN5G/giphy.gif" width="60%" alt="Pacman">
-</p>
+<div align="center">
+
+![Pacman](https://media.giphy.com/media/20VOn6sOBvshg7mN5G/giphy.gif)
+
+</div>
 
 </div
