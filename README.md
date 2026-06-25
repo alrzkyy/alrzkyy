@@ -29,7 +29,7 @@
 
 ## 👤 About Me
 
-I am **alrzkyy**, a passionate Student Developer from Indonesia who is deeply invested in exploring the world of web development, from crafting beautiful frontends to building robust backends. I'm constantly learning, and every day I discover more reasons why coding is so incredibly fun.
+I am **Muhammad Rahlil Al Rizki**, I am a student developer currently learning the ropes of programming. Although I entered the field in 2024, I have only recently decided to get serious about it, and I really appreciate how AI technology aids my learning process.
 
 What truly drives me? The absolute thrill of writing code in my editor and seeing it come to life in the browser. There is simply no feeling quite like it.
 
