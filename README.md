@@ -133,6 +133,18 @@ const alrzkyy = {
 
 [![Visit Website](https://img.shields.io/badge/Visit%20Website-astraverse.web.id-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astraverse.web.id)
 
+## 🎬 Veloflix Project
+
+<div align="center">
+
+### 🍿 [Veloflix](https://veloflix.my.id)
+> Website platform streaming film dan series terlengkap dengan kualitas video HD, update super cepat karena menggunakan API, dan pengalaman menonton yang mulus.
+
+[![Visit Website](https://img.shields.io/badge/Stream%20Now-veloflix.my.id-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://veloflix.my.id)
+
+---
+</div>
+
 ---
 
 *Masih terus nambahin proyek baru. Stay tuned! 👀*
