@@ -62,37 +62,90 @@ const alrzkyy = {
 
 ---
 
-## Projects
+<div align="center">
+
+## Featured Projects
+
+A few projects I've spent the most time building and shipping.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎬 VeloFlix
-Movie and series streaming platform with authentication, realtime features, notifications, and background content workflows.
 
-`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `NextAuth` · `Socket.IO` · `Redis`
+Movie and series streaming platform with authentication, realtime features, notifications, and automated content workflows.
 
-**Live:** [veloflix.my.id](https://veloflix.my.id)  
-**Source:** Private
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+<a href="https://veloflix.my.id"><img src="https://img.shields.io/badge/Live%20Site-veloflix.my.id-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VeloFlix live site" /></a>
+<img src="https://img.shields.io/badge/Source-Private-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Private source" />
+
+</td>
+<td width="50%" valign="top">
 
 ### 🪐 AstraVerse
-Anime, donghua, and comic platform built around a fast browsing experience and automated content workflows.
 
-`Astro` · `TypeScript` · `PostgreSQL` · `Tailwind CSS` · `Puppeteer`
+Anime, donghua, and comic platform focused on fast browsing and automated content workflows.
 
-**Live:** [astraverse.web.id](https://astraverse.web.id)  
-**Source:** Private
+<p>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+<a href="https://astraverse.web.id"><img src="https://img.shields.io/badge/Live%20Site-astraverse.web.id-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AstraVerse live site" /></a>
+<img src="https://img.shields.io/badge/Source-Private-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Private source" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌌 AstraChat
+
 Realtime messaging app with direct and group chat, media sharing, WebRTC calls, and client-side encryption.
 
-`React` · `Vite` · `Supabase` · `WebRTC` · `Tailwind CSS`
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+</p>
 
-[View repository](https://github.com/alrzkyy/AstraChat)
+<a href="https://github.com/alrzkyy/AstraChat"><img src="https://img.shields.io/badge/View%20Repository-AstraChat-181717?style=for-the-badge&logo=github&logoColor=white" alt="AstraChat repository" /></a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 💰 FInSight
+
 Personal finance app for tracking spending, reviewing trends, and experimenting with useful AI-assisted features.
 
-`Flutter` · `Dart` · `Riverpod` · `SQLite` · `Supabase`
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
 
-[View repository](https://github.com/alrzkyy/finsightapp)
+<a href="https://github.com/alrzkyy/finsightapp"><img src="https://img.shields.io/badge/View%20Repository-FInSight-181717?style=for-the-badge&logo=github&logoColor=white" alt="FInSight repository" /></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <sub>Private source means the project is public to use, but the repository itself is not.</sub>
+</div>
 
 ---
 
