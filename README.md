@@ -1,169 +1,81 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  BANNER & GIF                                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <img src="img/github-header-banner.png" width="100%" alt="banner" />
-  <br />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxqNnZsNXRzN3I1ZjllczhjbTNxNThtenV3N281enNqcHRud3phcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z1kNApBxwDVv4nzS83/giphy.gif" width="100%" alt="Profile gif Preview">
-</div>
+  <img src="img/github-header-banner.png" width="100%" alt="alrzkyy banner" />
 
+  # Muhammad Rahlil Al Rizki
 
+  **Full-stack & Mobile Developer from Indonesia 🇮🇩**
 
-<br/>
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     TYPING ANIMATION                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Hi+i+am+alrzkyy;Welcome+to+my+profile;Thank+you+for+you+visited" alt="Typing SVG" />
+  Building modern web apps, mobile experiences, and AI-powered products.
 </div>
 
 ---
 
-## 👤 About Me
+## 👋 About Me
 
-I am **Muhammad Rahlil Al Rizki**, I am a student developer currently learning the ropes of programming. Although I entered the field in 2024, I have only recently decided to get serious about it, and I really appreciate how AI technology aids my learning process.
+I'm **alrzkyy**, a developer focused on building polished products across web and mobile. I enjoy working on full-stack applications, real-time systems, AI integrations, clean UI/UX, and production-ready deployments.
 
-What drives me to start learning programming technology now? It is because the rapid advancements in the world of programming are fascinating to me, and I hope to make a contribution in the future.
-
-```js
+```ts
 const alrzkyy = {
-  name: "alrzkyy",
-  role: "Beginner Developer ",
+  role: "Full-stack & Mobile Developer",
   location: "Indonesia 🇮🇩",
-  currently: "building a full-stack website with AI and also looking for a great idea for the next project",
-  passions: ["Clean UI/UX with a prompting :3", "Readable Code", "Late-night Coffee ☕"]
+  focus: ["Web Apps", "Mobile Apps", "AI", "Real-time Systems"],
+  currentlyBuilding: ["VeloFlix", "AstraVerse", "AstraChat"]
 };
 ```
 
-<br/>
+## 🧰 Main Stack
 
----
-
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAydXJ4ZXZnNWozM3YxZDlnZ2pjNDFhOHRkd3hwd2w2ejB4em5xZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/alrzkyy11_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/@alrzkyy1_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="alrzkyy11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://x.com/alrzkyy1_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://web.telegram.org/alkermann" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-## 🌐 AstraVerse Project
-
-<div align="center">
-
-### 🪐 [Astraverse](https://astraverse.web.id)
-> Website Yang Menyajikan Konten Anime, Donghua, Dan Komik tanpa iklan dan kualitas gambar atau video yang baguss.
-
-[![Visit Website](https://img.shields.io/badge/Visit%20Website-astraverse.web.id-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astraverse.web.id)
-
-## 🎬 Veloflix Project
-
-<div align="center">
-
-### 🍿 [Veloflix](https://veloflix.my.id)
-> Website platform streaming film dan series terlengkap dengan kualitas video HD, update super cepat karena menggunakan API, dan pengalaman menonton yang mulus.
-
-[![Visit Website](https://img.shields.io/badge/Stream%20Now-veloflix.my.id-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://veloflix.my.id)
-
----
-</div>
-
----
-
-*Masih terus nambahin proyek baru. Stay tuned! 👀*
-
----
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alrzkyy&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,dart,nodejs,postgres,supabase,tailwind,docker,linux,git" alt="Tech stack" />
 </p>
 
-###
-<div align="center">
+---
 
-## 🐍 Snake Game
+## 🚀 Featured Projects
 
-![Snake animation](https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/github-contribution-grid-snake.svg)
+### 🎬 VeloFlix
+**Streaming platform for movies and series with a polished viewing experience, fast content updates, authentication, notifications, and a production-focused full-stack architecture.**
+
+`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `NextAuth` · `Socket.IO` · `Redis`
+
+> 🔒 Source code is private. The project is showcased here without exposing the repository.
+
+[![Visit VeloFlix](https://img.shields.io/badge/Visit%20VeloFlix-veloflix.my.id-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://veloflix.my.id)
+
+### 🪐 AstraVerse
+**Anime, donghua, and comic platform focused on a clean viewing experience, fast navigation, automated content workflows, and a modern full-stack architecture.**
+
+`Astro` · `TypeScript` · `PostgreSQL` · `Tailwind CSS` · `Puppeteer` · `Gemini AI`
+
+> 🔒 Source code is private. The live product remains publicly accessible.
+
+[![Visit AstraVerse](https://img.shields.io/badge/Visit%20AstraVerse-astraverse.web.id-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astraverse.web.id)
+
+### 🌌 AstraChat
+**Modern real-time messaging platform with direct messages, group chats, media sharing, WebRTC voice/video calls, and client-side encryption.**
+
+`React` · `Vite` · `Supabase` · `WebRTC` · `Tailwind CSS`
+
+[![Repository](https://img.shields.io/badge/View%20Repository-AstraChat-181717?style=for-the-badge&logo=github)](https://github.com/alrzkyy/AstraChat)
+
+### 💰 FInSight
+**Personal finance assistant built with Flutter, local persistence, charts, Supabase, and Gemini-powered features.**
+
+`Flutter` · `Dart` · `Riverpod` · `SQLite` · `Supabase` · `Gemini AI`
+
+[![Repository](https://img.shields.io/badge/View%20Repository-FInSight-181717?style=for-the-badge&logo=github)](https://github.com/alrzkyy/finsightapp)
 
 ---
+
+## 📫 Connect
+
+<p>
+  <a href="https://www.instagram.com/alrzkyy11_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://x.com/alrzkyy1_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+---
+
 <div align="center">
-
-### 🕹️ Pacman
-![Pacman](https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman-contribution.svg)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alrzkyy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
