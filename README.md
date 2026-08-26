@@ -158,17 +158,22 @@ Personal finance app for tracking spending, reviewing trends, and experimenting 
   <a href="https://x.com/alrzkyy1_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="X" />
   </a>
+  <a href="https://t.me/alkermann_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&style=for-the-badge" height="35" alt="Telegram @alkermann_" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alrzkyy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=alrzkyy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ### Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</div>
 
 <div align="center">
   <sub>Still building. Still learning.</sub>
