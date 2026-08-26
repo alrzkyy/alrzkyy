@@ -3,79 +3,48 @@
 
   # Muhammad Rahlil Al Rizki
 
-  **Full-stack & Mobile Developer from Indonesia 🇮🇩**
-
-  Building modern web apps, mobile experiences, and AI-powered products.
+  Full-stack & mobile developer from Indonesia.
 </div>
 
----
+## About
 
-## 👋 About Me
+I build web and mobile projects with a focus on practical products, clean interfaces, and maintainable code. Most of my recent work uses TypeScript, React/Next.js, Flutter, Supabase, PostgreSQL, and Node.js.
 
-I'm **alrzkyy**, a developer focused on building polished products across web and mobile. I enjoy working on full-stack applications, real-time systems, AI integrations, clean UI/UX, and production-ready deployments.
+I also work with AI APIs when they make sense for the product, but they are not the point of the project.
 
-```ts
-const alrzkyy = {
-  role: "Full-stack & Mobile Developer",
-  location: "Indonesia 🇮🇩",
-  focus: ["Web Apps", "Mobile Apps", "AI", "Real-time Systems"],
-  currentlyBuilding: ["VeloFlix", "AstraVerse", "AstraChat"]
-};
-```
+## Selected work
 
-## 🧰 Main Stack
+### VeloFlix
+Movie and series streaming platform built with Next.js, Prisma, PostgreSQL, authentication, realtime features, and background content workflows.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,dart,nodejs,postgres,supabase,tailwind,docker,linux,git" alt="Tech stack" />
-</p>
+**Stack:** Next.js, TypeScript, Prisma, PostgreSQL, NextAuth, Socket.IO, Redis  
+**Live:** https://veloflix.my.id  
+**Source:** private
 
----
+### AstraVerse
+Anime, donghua, and comic platform built with Astro, PostgreSQL, Tailwind CSS, automation tooling, and server-side workflows.
 
-## 🚀 Featured Projects
+**Stack:** Astro, TypeScript, PostgreSQL, Tailwind CSS, Puppeteer  
+**Live:** https://astraverse.web.id  
+**Source:** private
 
-### 🎬 VeloFlix
-**Streaming platform for movies and series with a polished viewing experience, fast content updates, authentication, notifications, and a production-focused full-stack architecture.**
+### AstraChat
+Real-time messaging app with direct and group chat, media sharing, WebRTC calls, and client-side encryption.
 
-`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `NextAuth` · `Socket.IO` · `Redis`
+**Stack:** React, Vite, Supabase, WebRTC, Tailwind CSS  
+**Repository:** https://github.com/alrzkyy/AstraChat
 
-> 🔒 Source code is private. The project is showcased here without exposing the repository.
+### FInSight
+Personal finance app for tracking spending and reviewing financial trends, with local persistence and optional AI-assisted features.
 
-[![Visit VeloFlix](https://img.shields.io/badge/Visit%20VeloFlix-veloflix.my.id-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://veloflix.my.id)
+**Stack:** Flutter, Dart, Riverpod, SQLite, Supabase  
+**Repository:** https://github.com/alrzkyy/finsightapp
 
-### 🪐 AstraVerse
-**Anime, donghua, and comic platform focused on a clean viewing experience, fast navigation, automated content workflows, and a modern full-stack architecture.**
+## Stack
 
-`Astro` · `TypeScript` · `PostgreSQL` · `Tailwind CSS` · `Puppeteer` · `Gemini AI`
+`TypeScript` `JavaScript` `React` `Next.js` `Flutter` `Dart` `Node.js` `PostgreSQL` `Supabase` `Tailwind CSS` `Docker` `Linux` `Git`
 
-> 🔒 Source code is private. The live product remains publicly accessible.
+## Contact
 
-[![Visit AstraVerse](https://img.shields.io/badge/Visit%20AstraVerse-astraverse.web.id-C084FC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://astraverse.web.id)
-
-### 🌌 AstraChat
-**Modern real-time messaging platform with direct messages, group chats, media sharing, WebRTC voice/video calls, and client-side encryption.**
-
-`React` · `Vite` · `Supabase` · `WebRTC` · `Tailwind CSS`
-
-[![Repository](https://img.shields.io/badge/View%20Repository-AstraChat-181717?style=for-the-badge&logo=github)](https://github.com/alrzkyy/AstraChat)
-
-### 💰 FInSight
-**Personal finance assistant built with Flutter, local persistence, charts, Supabase, and Gemini-powered features.**
-
-`Flutter` · `Dart` · `Riverpod` · `SQLite` · `Supabase` · `Gemini AI`
-
-[![Repository](https://img.shields.io/badge/View%20Repository-FInSight-181717?style=for-the-badge&logo=github)](https://github.com/alrzkyy/finsightapp)
-
----
-
-## 📫 Connect
-
-<p>
-  <a href="https://www.instagram.com/alrzkyy11_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/alrzkyy1_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alrzkyy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
+- Instagram: https://www.instagram.com/alrzkyy11_
+- X: https://x.com/alrzkyy1_
