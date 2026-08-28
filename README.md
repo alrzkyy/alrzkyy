@@ -15,15 +15,15 @@
 
 ## About Me
 
-I'm **Muhammad Rahlil Al Rizki**, a developer from Indonesia who enjoys building web apps, mobile apps, realtime systems, automation, and the occasional AI-assisted feature when it actually fits the product.
+Hello, my name is **Muhammad Rahlil Al Rizki**. I am a **student developer from Purwakarta, Indonesia**. I am an AI enthusiast and I also enjoy exploring and building **AI-powered software and programming projects**.
 
-I started programming in 2024 and have been spending most of my time turning ideas into working projects, learning by shipping, breaking things, and fixing them again.
+I enjoy learning by building real projects, experimenting with new technologies, and continuously improving the way I design and develop software.
 
 ```js
 const alrzkyy = {
-  role: "Full-stack & Mobile Developer",
-  location: "Indonesia 🇮🇩",
-  focus: ["Web Apps", "Mobile Apps", "Realtime", "Automation"],
+  role: "Student Developer",
+  location: "Purwakarta, Indonesia 🇮🇩",
+  interests: ["AI", "AI-powered Development", "Web Apps", "Mobile Apps", "Automation"],
   currentProjects: ["VeloFlix", "AstraVerse", "AstraChat"]
 };
 ```
@@ -80,8 +80,6 @@ const alrzkyy = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" title="PostgreSQL" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" title="Next.js" />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="34" alt="OpenAI" title="OpenAI" />
 </div>
 
 <br clear="both" />
