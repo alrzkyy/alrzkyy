@@ -23,6 +23,8 @@ Most of what I know comes from building projects hands-on — experimenting with
 const alrzkyy = {
   role: "Student Developer",
   location: "Purwakarta, Indonesia 🇮🇩",
+  school: "SMKS Bina Kerja Purwakarta",
+  major: "Software Engineering (RPL)",
   interests: ["AI", "AI-powered Development", "Web Apps", "Mobile Apps", "Automation"],
   currentProjects: ["VeloFlix", "AstraVerse", "AstraChat"]
 };
