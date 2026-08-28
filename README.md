@@ -116,6 +116,10 @@ Movie and series streaming platform with authentication, realtime features, noti
 
 <img src="https://cdn.phototourl.com/free/2026-08-28-afee4dfb-87a8-4a6f-b8dc-c8ff1f54ae46.png" width="100%" alt="VeloFlix recent website traffic analytics" />
 
+#### Visits
+
+<img src="https://cdn.phototourl.com/free/2026-08-28-b672ee85-d115-4d78-9f0f-90f79a1671d6.png" width="100%" alt="VeloFlix website visits" />
+
 </td>
 <td width="50%" valign="top">
 
@@ -133,9 +137,9 @@ Anime, donghua, and comic platform focused on fast browsing and automated conten
 <a href="https://astraverse.web.id"><img src="https://img.shields.io/badge/Live%20Site-astraverse.web.id-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AstraVerse live site" /></a>
 <img src="https://img.shields.io/badge/Source-Private-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Private source" />
 
-#### Recent Traffic
+#### Status
 
-<img src="https://cdn.phototourl.com/free/2026-08-28-c2326eed-36b2-4b14-a962-5d9382745425.jpg" width="100%" alt="AstraVerse recent website traffic analytics" />
+<img src="https://cdn.phototourl.com/free/2026-08-28-c2326eed-36b2-4b14-a962-5d9382745425.jpg" width="100%" alt="AstraVerse status" />
 
 </td>
 </tr>
