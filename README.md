@@ -15,9 +15,9 @@
 
 ## About Me
 
-Hello, my name is **Muhammad Rahlil Al Rizki**. I am a **student developer from Purwakarta, Indonesia**. I am an AI enthusiast and I also enjoy exploring and building **AI-powered software and programming projects**.
+I enjoy turning ideas into real, working products while continuously expanding my skills across web, mobile, backend systems, automation, and AI-assisted development.
 
-I enjoy learning by building real projects, experimenting with new technologies, and continuously improving the way I design and develop software.
+Most of what I know comes from building projects hands-on — experimenting with new technologies, solving practical problems, and improving each project as I learn more. I’m especially interested in creating software where AI is used as a meaningful part of the product rather than just an extra feature.
 
 ```js
 const alrzkyy = {
