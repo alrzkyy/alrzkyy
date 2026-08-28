@@ -2,7 +2,7 @@
 <div align="center">
   <img src="img/github-header-banner.png" width="100%" alt="alrzkyy banner" />
   <br />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxqNnZsNXRzN3I1ZjllczhjbTNxNThtenV3N281enNqcHRud3phcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z1kNApBxwDVv4nzS83/giphy.gif" width="100%" alt="Profile animation" />
+  <img src="https://tenor.com/rUvxs8Vj0Jx.gif" width="100%" alt="Profile animation" />
 </div>
 
 <br />
