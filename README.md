@@ -133,6 +133,10 @@ Anime, donghua, and comic platform focused on fast browsing and automated conten
 <a href="https://astraverse.web.id"><img src="https://img.shields.io/badge/Live%20Site-astraverse.web.id-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AstraVerse live site" /></a>
 <img src="https://img.shields.io/badge/Source-Private-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Private source" />
 
+#### Recent Traffic
+
+<img src="https://cdn.phototourl.com/free/2026-08-28-c2326eed-36b2-4b14-a962-5d9382745425.jpg" width="100%" alt="AstraVerse recent website traffic analytics" />
+
 </td>
 </tr>
 <tr>
