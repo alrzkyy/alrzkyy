@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="img/github-header-banner-v4.jpg" width="100%" alt="alrzkyy banner" />
+  <img src="img/github-header-banner-v5.png" width="100%" alt="alrzkyy banner" />
   <br />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2RzbXlpMm1ocmMzMnB0NTJlZjZncjA5aDF0NTRxcGJ2OWppMjhnMSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/h6emOZGeO2DmkVu7cS/giphy.gif" width="100%" alt="Profile animation" />
 </div>
