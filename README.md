@@ -30,6 +30,10 @@ const alrzkyy = {
 };
 ```
 
+### Fun Fact
+
+**Fun fact:** I first got into programming in 2022 through the Minecraft server community. I had the chance to help develop and manage an economy-style Minecraft server with zero prior experience, and that became the starting point of my interest in programming. In 2025, I began seriously exploring different technologies and broader tech stacks.
+
 <br />
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnAydXJ4ZXZnNWozM3YxZDlnZ2pjNDFhOHRkd3hwd2w2ejB4em5xZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" alt="coding gif" />
