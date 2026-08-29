@@ -241,6 +241,16 @@ Personal finance app for tracking spending, reviewing trends, and experimenting 
   <img src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake" />
 </div>
 
+### Pac-Man Contribution Game
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution game" />
+  </picture>
+</div>
+
 <div align="center">
   <sub>Still building. Still learning.</sub>
 </div>
