@@ -224,13 +224,22 @@ Personal finance app for tracking spending, reviewing trends, and experimenting 
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alrzkyy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alrzkyy&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="alrzkyy contribution activity graph" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=alrzkyy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="alrzkyy GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=alrzkyy&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+
 </div>
 
 ### Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/alrzkyy/alrzkyy/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake" />
 </div>
 
 <div align="center">
