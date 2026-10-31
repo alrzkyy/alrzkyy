@@ -26,7 +26,7 @@ const alrzkyy = {
   school: "SMKS Bina Kerja Purwakarta",
   major: "Software Engineering (RPL)",
   interests: ["AI", "AI-powered Development", "Web Apps", "Mobile Apps", "Automation"],
-  currentProjects: ["VeloFlix", "AstraVerse", "AstraChat"]
+  currentProjects: ["AstraChat", "FInSight"]
 };
 ```
 
@@ -120,54 +120,6 @@ A few projects I've spent the most time building and shipping.
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 VeloFlix
-
-Movie and series streaming platform with authentication, realtime features, notifications, and automated content workflows.
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-<a href="https://veloflix.my.id"><img src="https://img.shields.io/badge/Live%20Site-veloflix.my.id-E50914?style=for-the-badge&logo=googlechrome&logoColor=white" alt="VeloFlix live site" /></a>
-<img src="https://img.shields.io/badge/Source-Private-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Private source" />
-
-#### Recent Traffic
-
-<img src="https://cdn.phototourl.com/free/2026-08-28-afee4dfb-87a8-4a6f-b8dc-c8ff1f54ae46.png" width="100%" alt="VeloFlix recent website traffic analytics" />
-
-#### Visits
-
-<img src="https://cdn.phototourl.com/free/2026-08-28-b672ee85-d115-4d78-9f0f-90f79a1671d6.png" width="100%" alt="VeloFlix website visits" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🪐 AstraVerse
-
-Anime, donghua, and comic platform focused on fast browsing and automated content workflows.
-
-<p>
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-<a href="https://astraverse.web.id"><img src="https://img.shields.io/badge/Live%20Site-astraverse.web.id-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="AstraVerse live site" /></a>
-<img src="https://img.shields.io/badge/Source-Private-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Private source" />
-
-#### Status
-
-<img src="https://cdn.phototourl.com/free/2026-08-28-c2326eed-36b2-4b14-a962-5d9382745425.jpg" width="100%" alt="AstraVerse status" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🌌 AstraChat
 
 Realtime messaging app with direct and group chat, media sharing, WebRTC calls, and client-side encryption.
@@ -200,10 +152,6 @@ Personal finance app for tracking spending, reviewing trends, and experimenting 
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <sub>Private source means the project is public to use, but the repository itself is not.</sub>
-</div>
 
 ---
 
